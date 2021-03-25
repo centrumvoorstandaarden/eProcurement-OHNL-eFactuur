@@ -1,3 +1,3 @@
-# Template-Standaard
+# eProcurement OHNL eFactuur
 
-https://centrumvoorstandaarden.github.io/Template-Standaard/ 
+https://centrumvoorstandaarden.github.io/eProcurement-OHNL-eFactuur
