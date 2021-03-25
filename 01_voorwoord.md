@@ -1,7 +1,6 @@
 # [kop 1 voorbeeld tekst]
 
-Dit is een voorbeeld tekst.
-
+Nog een aanpassing
 Als je iets nadruk wilt geven: *tekst met nadruk (schuingedrukt)*. Of: _zo kan het ook_.
 
 Sterke nadruk doe je zo: **tekst met sterke nadruk**.
