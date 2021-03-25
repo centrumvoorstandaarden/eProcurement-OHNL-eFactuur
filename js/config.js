@@ -22,7 +22,7 @@ var respecConfig = {
   // AL: "Algemeen"
   // BD: "Beheerdocumentatie"
   // BP: "Best Practice"
-  specType: "HR",
+  specType: "ST",
 
   // subtitle will be shown below title, can be omitted 
   subtitle: "Hier komt een subtitle",
@@ -55,11 +55,11 @@ var respecConfig = {
   // An array of person objects describing the editors of the document
   // this can be simple or more elaborated
   editors: [{
-    name: "Peter Haasnoot",
+    name: "Victor den Toom",
     url: "https://logius.nl/standaarden",
   },
   {
-    name: "Pieter Hering",
+    name: "Wendy van Donge",
     mailto: "api@digikoppeling.nl",
     company: "Logius",
     companyURL: "https://logius.nl/standaarden",
@@ -68,7 +68,7 @@ var respecConfig = {
   // An array of person objects describing the authors of the document
   // this can be simple or more elaborated
   authors: [{
-    name: "Pieter Hering",
+    name: "Victor den Toom",
     url: "https://logius.nl/standaarden",
   }
   ],
